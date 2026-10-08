@@ -4,5 +4,8 @@
     "2": 390,
     "3": 450
   },
-  "areaRemota": 224
+  "areaRemota": 224,
+  "areasRemotasCP": [],
+  "listaCompleta": true,
+  "areaRemotaMinDHL": 165
 }
