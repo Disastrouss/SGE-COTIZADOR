@@ -5,7 +5,7 @@
   "areaRemotaMinDHL": 165,
   "areasRemotasCP": [],
   "listaCompleta": true,
-  "habilitado": false,
+  "habilitado": true,
   "versionMinima": "0.0.0",
   "mensaje": "SE ESTAN TRABAJANDO EN LAS NUEVAS TARIFAS"
 }
