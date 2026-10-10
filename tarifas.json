@@ -1,11 +1,11 @@
 {
-  "tarifas": {
-    "1": 350,
-    "2": 390,
-    "3": 450
-  },
+  "tarifas": { "1": 350, "2": 390, "3": 450 },
+  "tarifasVip": { "1": 340, "2": 380, "3": 440 },
   "areaRemota": 224,
+  "areaRemotaMinDHL": 165,
   "areasRemotasCP": [],
   "listaCompleta": true,
-  "areaRemotaMinDHL": 165
+  "habilitado": true,
+  "versionMinima": "0.0.0",
+  "mensaje": ""
 }
