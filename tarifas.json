@@ -5,7 +5,7 @@
   "areaRemotaMinDHL": 165,
   "areasRemotasCP": [],
   "listaCompleta": true,
-  "habilitado": true,
+  "habilitado": false,
   "versionMinima": "0.0.0",
   "mensaje": ""
 }
