@@ -1,6 +1,6 @@
 {
-  "tarifas": { "1": 355, "2": 395, "3": 450 },
-  "tarifasVip": { "1": 345, "2": 385, "3": 440 },
+  "tarifas": { "1": 355, "2": 395, "3": 455 },
+  "tarifasVip": { "1": 345, "2": 385, "3": 445 },
   "areaRemota": 228,
   "areaRemotaMinDHL": 165,
   "areasRemotasCP": [],
